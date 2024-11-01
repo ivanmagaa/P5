@@ -1,8 +1,6 @@
-Configuración básica de BIND9 con Docker Compose
- Configuración básica de BIND9 con Docker Compose
- Este documento explica como configurar un servidor DNS usando a imaxe oficial de **BIND9** en
- Docker a través dun ficheiro `docker-compose.yml`. Segue a estrutura indicada pola documentación
- oficial de ISC.
+# Redes e Contedores en Docker e Docker Compose
+## P5. DNS - Docker Compose
+
  ### 1. Arquivo `docker-compose.yml`
  No arquivo `docker-compose.yml`, configuramos o contedor de BIND9 para funcionar como servidor
  DNS autoritativo. Os volumes e portos configurados permiten que o contedor xestione consultas
