@@ -1,5 +1,5 @@
-# Redes e Contedores en Docker e Docker Compose
-## P5. DNS - Docker Compose
+
+# P5. DNS - Docker Compose
 
  ### 1. Arquivo `docker-compose.yml`
  No arquivo `docker-compose.yml`, configuramos o contedor de BIND9 para funcionar como servidor
